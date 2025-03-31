@@ -44,3 +44,7 @@ console.log(obj.candidate);
 data.forEach((element) => {
     console.log(element.candidate);
 })
+
+// for (const candidate of data) {
+//     console.log(candidate.candidate);
+// }

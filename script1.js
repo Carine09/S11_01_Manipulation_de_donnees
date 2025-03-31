@@ -15,7 +15,7 @@ console.log(candidates[7]);
 console.log(candidates);
 
 
-candidates.forEach((element) => {
-    console.log(element);
-    candidatesExoUn.innerHTML += `<li> ${element} </li>`;
+candidates.forEach((candidate) => {
+    console.log(candidate);
+    candidatesExoUn.innerHTML += `<li> ${candidate} </li>`;
 })

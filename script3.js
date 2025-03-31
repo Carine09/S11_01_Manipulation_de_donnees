@@ -44,6 +44,7 @@ let sum = 0
 
 // console.log(typeof data);
 // console.log(data[0]);
+// console.log(data[0].age);
 console.log(data.length);
 // console.log(data[4]);
 
